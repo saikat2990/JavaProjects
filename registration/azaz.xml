@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><registration>
+   <Account id="1 ">
+      <userName>tanvir</userName>
+      <Email>t@gmail.com</Email>
+      <password>890</password>
+      <balance>1200</balance>
+      <gender>male</gender>
+   </Account>
+   <Account id="2 ">
+      <userName>rabbi</userName>
+      <Email>r@gmail.com</Email>
+      <password>888</password>
+      <balance>1850.0</balance>
+      <gender>male</gender>
+   </Account>
+	<Account id="3 ">
+      <userName>abul</userName>
+      <Email>a@gmail.com</Email>
+      <password>456</password>
+      <balance>1600</balance>
+      <gender>male</gender>
+   </Account>
+	<Account id="10 ">
+      <userName>tawhid</userName>
+      <Email>t@gmail.com</Email>
+      <password>123</password>
+      <balance>1800</balance>
+      <gender>male</gender>
+   </Account>
+	<Account id="11 ">
+      <firstNmae>11 </firstNmae>
+      <lastName>atiq</lastName>
+      <userName>atiq</userName>
+      <Email>a@gmail.com</Email>
+      <password>923</password>
+      <balance>1800</balance>
+      <gender>male</gender>
+   </Account>
+<Account id="12 ">
+      <firstNmae>11 </firstNmae>
+      <lastName>hridoy</lastName>
+      <userName>hridoyH</userName>
+      <Email>e@gmail.com</Email>
+      <password>Aazaz0##</password>
+      <balance>1200</balance>
+      <gender>male</gender>
+   </Account>
+<Account id="13 ">
+      <firstNmae>mamun</firstNmae>
+      <lastName>ahmed</lastName>
+      <userName>mamun</userName>
+      <Email>m@gmail.com</Email>
+      <password>789</password>
+      <balance>1200</balance>`	
+      <gender>male</gender>
+   </Account>
+<Account id="14">
+      <firstNmae>azaz</firstNmae>
+      <lastName>bablu</lastName>
+      <userName>Azazulhaque</userName>
+      <Email>azazulHaque123@gmail.com</Email>
+      <password>a12345678</password>
+      <balance>6000</balance>
+      <gender>male</gender>
+   </Account>
+<Account id="15">
+      <firstNmae>masud</firstNmae>
+      <lastName>rana</lastName>
+      <userName>Masud Rana</userName>
+      <Email>masud123@gmail.com</Email>
+      <password>a999999999</password>
+      <balance>5000</balance>
+      <gender>male</gender>
+   </Account>
+<Account id="16">
+      <firstNmae>anamul</firstNmae>
+      <lastName>haque</lastName>
+      <userName>Anamulhaque</userName>
+      <Email>anamul@gmail.com</Email>
+      <password>b12345678</password>
+      <balance>6000</balance>
+      <gender>male</gender>
+   </Account>
+<Account id="1">
+      <firstNmae>tamim</firstNmae>
+      <lastName>iqbal</lastName>
+      <userName>TamimIqbal</userName>
+      <Email>Tamim@123.gmail.com</Email>
+      <password>T12345678</password>
+      <balance>9000</balance>
+      <gender>male</gender>
+   </Account>
+<Account id="1">
+      <firstNmae>abul</firstNmae>
+      <lastName>mia</lastName>
+      <userName>Abul Miaa</userName>
+      <Email>Mia123@gmail.com</Email>
+      <password>M12345678</password>
+      <balance>8000</balance>
+      <gender>male</gender>
+   </Account>
+<Account id="1">
+      <firstNmae>aminul</firstNmae>
+      <lastName>harami</lastName>
+      <userName>AminulHarami</userName>
+      <Email>H123@gmail.com</Email>
+      <password>H12345678</password>
+      <balance>5000</balance>
+      <gender>male</gender>
+   </Account>
+</registration>

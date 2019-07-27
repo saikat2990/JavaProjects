@@ -1,0 +1,14 @@
+student name, registrationID, department, session, age, cgpa, hall
+Rakibul Islam, 2015-07-1923, Botany, 2015-2016, 21, 3.45, Fazlul Huq Muslim Hall
+Hasanujjamna, 2015-07-193, Sociology, 2015-2016, 21, 2.95, Kabi Jasimuddin Hall
+Mahfuza Khanum, 2013-05-15, Marketing, 2013-2014, 22, 3.50, Shamsunnahar Hall
+Nulufar Jaman, 2017-05-25, Physchology, 2017-2018, 19, 3.25, Shamsunnahar Hall
+Kazi Binte Hafsa, 2017-05-35, Marketing, 2017-2018, 18, 3.20, Kabi Sufia Kamal Hall
+Najnin Khanum, 2015-05-15, Geography, 2015-2016, 20, 3.00, Shamsunnahar Hall
+Nahid hasan, 2017-05-95, Law, 2017-2018, 20, 3.65, Kabi Jasimuddin Hall
+Abdur Rauf, 2016-10-95, Arabic, 2016-2017, 21, 3.15, Zahurul Haq Hall
+Kazi Raquib, 2015-12-22, Linguistics, 2015-2016, 22, 3.33, Haji Muhammad Mohsin Hall
+Abu Hasan, 2017-12-85, Arabic, 2017-2018, 20, 3.00, Surja Sen Hall
+Sujaudoulla, 2017-10-125, Pharmacy, 2017-2018, 20, 3.60, Amar Ekushey Hall
+Mahbub Hossain, 2014-11-14, Zoology, 2014-2015, 23, 3.62, Amar Ekushey Hall
+Ahmedullah, 2014-11-15, IIT, 2014-2015, 22, 3.75, Amar Ekushey Hall

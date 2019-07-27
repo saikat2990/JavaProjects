@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyFuckingDatabase</string>
+    <string name="resgistration_form" />
+    <string name="name">name</string>
+</resources>
